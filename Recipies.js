@@ -10,3 +10,4 @@ class Recipies {
 
 const recipies = new Recipies();
 recipies.cook();
+recipies.done('Done');
